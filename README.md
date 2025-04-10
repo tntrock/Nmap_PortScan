@@ -1,5 +1,5 @@
 # Nmap_PortScan
-使用python呼叫nmap去做Port Scan  
+使用python呼叫nmap做Port Scan  
 確認那些Port有對外開放服務  
   
 若無法連線，會顯示 no-response
